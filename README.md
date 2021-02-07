@@ -18,7 +18,7 @@ Program run time is printed.
 </p>
 
 <p><h2>Algorithm B (topkjoinB.py)</h2>
-Algorithm reads entire males_sorted file and puts valid tuples into a dictionary that has the age field as key. Then, reads the tuples from females_sorted file one by one and for each one of them, finds the tuples that join using the dictionary. Top-k results so far, are stored in a min-heap, which at the end of the algorithm will have the top-k pairs. Program run time is printed.
+Algorithm reads entire males_sorted file and puts valid tuples into a dictionary that has the age field as key. Then, reads the entries from females_sorted file one by one and for each one of them, finds the entries that join using the dictionary. Top-k results so far, are stored in a min-heap, which at the end of the algorithm will have the top-k pairs. Program run time is printed.
 </p>
 
 <p><h2>Usage:</h2>
