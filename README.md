@@ -22,5 +22,7 @@ Algorithm reads entire males_sorted file and puts valid tuples into a dictionary
 </p>
 
 <p><h2>Usage:</h2>
-python3 algorithm_file K
+python3 algorithm_file K*
+<br>
+* where K = any number
 </p>
