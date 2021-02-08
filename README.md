@@ -21,11 +21,13 @@ Program run time is printed.
 Algorithm reads entire males_sorted file and puts valid tuples into a dictionary that has the age field as key. Then, reads the entries from females_sorted file one by one and for each one of them, finds the entries that join using the dictionary. Top-k results so far, are stored in a min-heap, which at the end of the algorithm will have the top-k pairs. Program run time is printed.
 </p>
 
-<p><h2>Usage:</h2>
+<p><h2>Usage</h2>
 python3 algorithm_file K
 <br><br>
 where K = any number
 </p>
 <br>
-![graph](https://user-images.githubusercontent.com/56131978/107258975-1e62a100-6a45-11eb-8a75-359073e2f210.jpg)
+
+![](images/graph.jpg)
+
 
