@@ -27,5 +27,5 @@ python3 algorithm_file K
 where K = any number
 </p>
 <br>
-![plot](C:\Users\User\Desktop\graph.jpg)
+![graph](https://user-images.githubusercontent.com/56131978/107258975-1e62a100-6a45-11eb-8a75-359073e2f210.jpg)
 
