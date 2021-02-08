@@ -27,6 +27,5 @@ python3 algorithm_file K
 where K = any number
 </p>
 <br>
-![Alt text](C:\Users\User\Desktop\graph.jpg?raw=true "Graph")
 ![plot](C:\Users\User\Desktop\graph.jpg)
 
