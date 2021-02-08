@@ -189,6 +189,6 @@ with open('males_sorted', 'r') as file1, open('females_sorted', 'r') as file2:
     for i in range(K):
         top_k_join()
 
-print("\nTo programma ektelestike se : " + str("{:.2f}".format((time.time() - start_time) * 1000)) + " msec")
-print("Egkyres grammes apo males_sorted: " + str(egkyres_grammes_males))
-print("Egkyres grammes apo females_sorted: " + str(egkyres_grammes_females))
+print("\nProgram was executed in: " + str("{:.2f}".format((time.time() - start_time) * 1000)) + " msec")
+print("Valid lines from males_sorted: " + str(egkyres_grammes_males))
+print("Valid lines from apo females_sorted: " + str(egkyres_grammes_females))
